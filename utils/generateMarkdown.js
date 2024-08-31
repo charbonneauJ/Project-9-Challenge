@@ -60,7 +60,7 @@ function generateMarkdown({
   ${learned}
   ### Features
   ${features}
-  ## Testing Instructions
+  ### Testing Instructions
   ${tests}
 ## Installation Instructions
   ${install}
