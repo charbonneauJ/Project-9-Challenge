@@ -31,26 +31,46 @@ function generateMarkdown({
   learned,
   tests,
   install,
+  contributing,
   usage,
   license,
   features,
+  email,
+  github,
 }) {
-  return `# ${data.title}
+  return `# ${title} ${renderLicenseBadgeAndLink(license)}
 
-  ## Description
-  ${data.motivation}
-  ${data.why}
-  ${data.problem}
-  ${data.learned}
-  ${data.tests}
-  ${data.install}
-  ${data.usage}
-  ${data.license}
-  ${data.features}
-  ${data.contributing}
-  ${data.github}
-  ${data.email}
-
+## Description
+  ### Motivation
+  ${motivation}
+  ### Why?
+  ${why}
+  ### What problem does the app solve?
+  ${problem}
+  ### What was the most important thing you learned?
+  ${learned}
+  ### Features
+  ${features}
+## Table of Contents
+  [Installation Instructions](#installation-instructions)
+  [Usage Information](#usage-information)
+  [License](#license)
+  [Contribution](#contribution)
+  [Contact and Questions](#contact)
+## Installation Instructions
+  ${install}
+## Usage Information
+  ${usage}
+## License
+  ${license}
+## Contibution
+  ${contributing}
+  ### Contact
+  ${github}
+  ### Email
+  ${email}
+## Testing Instructions
+  ${tests}
 
 `;
 }
