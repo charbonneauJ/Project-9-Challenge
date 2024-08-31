@@ -5,7 +5,7 @@
   [Installation Instructions](#installation-instructions)<br>
   [Usage Information](#usage-information)<br>
   [License](#license)<br>
-  [Contribution](#contribution)<br>
+  [Contribution](#contributing)<br>
   [Contact and Questions](#contact)<br>
 
 
@@ -20,6 +20,8 @@
   How to properly work in Node and in Markdown.
   ### Features
   Node, Markdown, JS
+  ### Testing Instructions
+  Simply run npm i, and then run node index.js.
 ## Installation Instructions
   Same as above, plus copying down the repo.
 ## Usage Information
@@ -32,6 +34,4 @@
   charbonneauj
   ### Email
   jtc393@aol.com
-## Testing Instructions
-  Simply run npm i, and then run node index.js.
 

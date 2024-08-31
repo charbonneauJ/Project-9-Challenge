@@ -68,7 +68,7 @@ function generateMarkdown({
   ${usage}
 ## License
   ${license}
-## Contibution
+## Contribution
   ${contributing}
   ### Contact
   ${github}
