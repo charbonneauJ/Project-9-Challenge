@@ -1,59 +1,37 @@
-# Project 9 Challenge [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-## Description
-
-### Motivation
-
-To do my homework
-
-### Why?
-
-To complete my homework
-
-### What problem does the app solve?
-
-Not having homework done
-
-### What was the most important thing you learned?
-
-Markdown is finicky
-
-### Features
-
-Generating readmes
+# Readme Generator [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Table of Contents
+  [Description](#description)<br>
+  [Installation Instructions](#installation-instructions)<br>
+  [Usage Information](#usage-information)<br>
+  [License](#license)<br>
+  [Contribution](#contribution)<br>
+  [Contact and Questions](#contact)<br>
 
-[Installation Instructions](#installation-instructions)<br>
-[Usage Information](#usage-information)<br>
-[License](#license)<br>
-[Contribution](#contribution)<br>
-[Contact and Questions](#contact)<br>
 
+## Description
+  ### Motivation
+  To make a great tool to generate readmes!
+  ### Why?
+  To help myself have a great tool for creating professional readmes for new projects.
+  ### What problem does the app solve?
+  Not having a tool like this on hand for my other projects and assignments.
+  ### What was the most important thing you learned?
+  How to properly work in Node and in Markdown.
+  ### Features
+  Node, Markdown, JS
 ## Installation Instructions
-
-Npm i
-
+  Same as above, plus copying down the repo.
 ## Usage Information
-
-Use whenever!
-
+  Free use for anyone who wants it!
 ## License
-
-MIT
-
+  MIT
 ## Contibution
-
-Download the repo and go to town!
-
-### Contact
-
-charbonneauj
-
-### Email
-
-jtc393@aol.com
-
+  Anyone can contribute, just pull down the repo and send a PR.
+  ### Contact
+  charbonneauj
+  ### Email
+  jtc393@aol.com
 ## Testing Instructions
+  Simply run npm i, and then run node index.js.
 
-Run node index.js
